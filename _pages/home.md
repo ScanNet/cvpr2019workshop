@@ -75,29 +75,29 @@ acknowledgements: ""
 <br>
 
 <div class="row" id="tasks">
-  <div class="col-md-4">
+  <div class="col-md-3">
     <img src="{{ "/static/img/semantic_label_2d.jpg" | prepend:site.baseurl }}">
     <p>2D semantic label prediction</p>
   </div>
-  <div class="col-md-4">
+  <div class="col-md-3">
     <img src="{{ "/static/img/semantic_instance_2d.jpg" | prepend:site.baseurl }}">
     <p>2D semantic instance prediction</p>
   </div>
-  <div class="col-md-4">
+  <div class="col-md-3">
     <img src="{{ "/static/img/semantic_label_3d.jpg" | prepend:site.baseurl }}">
     <p>3D semantic label prediction</p>
   </div>
-  <div class="col-md-4">
+  <div class="col-md-3">
     <img src="{{ "/static/img/semantic_instance_3d.jpg" | prepend:site.baseurl }}">
     <p>3D semantic instance prediction</p>
   </div>
-  <div class="col-md-4">
+  <!-- <div class="col-md-4">
     <p>&nbsp;</p>
-  </div>
-  <div class="col-md-4">
+  </div> -->
+  <!-- <div class="col-md-4">
     <img src="{{ "/static/img/scene_type_classification.jpg" | prepend:site.baseurl }}">
     <p>Scene type classification</p>
-  </div>
+  </div> -->
 </div>
 
 <div class="row" id="schedule">
