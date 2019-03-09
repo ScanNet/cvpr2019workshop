@@ -75,19 +75,19 @@ acknowledgements: ""
 <br>
 
 <div class="row" id="tasks">
-  <div class="col-md-3">
+  <div class="col-md-6 text-center">
     <img src="{{ "/static/img/semantic_label_2d.jpg" | prepend:site.baseurl }}">
     <p>2D semantic label prediction</p>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-6 text-center">
     <img src="{{ "/static/img/semantic_instance_2d.jpg" | prepend:site.baseurl }}">
     <p>2D semantic instance prediction</p>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-6 text-center">
     <img src="{{ "/static/img/semantic_label_3d.jpg" | prepend:site.baseurl }}">
     <p>3D semantic label prediction</p>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-6 text-center">
     <img src="{{ "/static/img/semantic_instance_3d.jpg" | prepend:site.baseurl }}">
     <p>3D semantic instance prediction</p>
   </div>
