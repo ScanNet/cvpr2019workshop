@@ -112,16 +112,12 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Participant Submission Deadline</td>
-          <td>May 1 2019</td>
+          <td>Poster Submission Deadline</td>
+          <td>May 10 2019</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>May 5 2019</td>
-        </tr>
-        <tr>
-          <td>Camera-Ready Deadline</td>
-          <td>May 10 2019</td>
+          <td>May 15 2019</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
