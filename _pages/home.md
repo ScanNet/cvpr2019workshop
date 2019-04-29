@@ -113,11 +113,11 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Poster Submission Deadline</td>
-          <td>May 10 2019</td>
+          <td>May 15 2019</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>May 15 2019</td>
+          <td>May 20 2019</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
