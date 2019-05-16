@@ -152,43 +152,43 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Welcome and Introduction</td>
-          <td>8:45am - 9:00am</td>
+          <td>1:45pm - 2:00pm</td>
         </tr>
         <tr>
           <td>Invited Speaker Talk 1</td>
-          <td>9:00am - 9:20am</td>
+          <td>2:00pm - 2:30pm</td>
         </tr>
         <tr>
           <td>Winner Talk 1</td>
-          <td>9:20am - 9:40am</td>
+          <td>2:30pm - 2:45pm</td>
         </tr>
         <tr>
           <td>Winner Talk 2</td>
-          <td>9:40am - 10:00am</td>
+          <td>2:45pm - 3:00pm</td>
         </tr>
         <tr>
           <td>Winner Talk 3</td>
-          <td>10:00am - 10:20am</td>
+          <td>3:00pm - 3:15pm</td>
         </tr>
         <tr>
           <td>Winner Talk 4</td>
-          <td>10:20am - 10:40am</td>
+          <td>3:15pm - 3:30pm</td>
         </tr>
         <tr>
           <td>Break and poster session</td>
-          <td>10:40am - 11:00am</td>
+          <td>3:30pm - 4:00pm</td>
         </tr>
         <tr>
           <td>Invited Speaker Talk 2</td>
-          <td>11:00am - 11:20am</td>
+          <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>
           <td>Invited Speaker Talk 3</td>
-          <td>11:20am - 11:40am</td>
+          <td>4:30pm - 5:00pm</td>
         </tr>
         <tr>
           <td>Panel Discussion and Conclusion</td>
-          <td>11:40am - 12:00pm</td>
+          <td>5:00pm - 5:30pm</td>
         </tr>
       </tbody>
     </table>
