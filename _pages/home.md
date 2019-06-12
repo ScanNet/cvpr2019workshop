@@ -155,7 +155,7 @@ acknowledgements: ""
           <td>1:45pm - 2:00pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 1</td>
+          <td>Invited Talk 1: Jitendra Malik</td>
           <td>2:00pm - 2:30pm</td>
         </tr>
         <tr>
@@ -179,11 +179,11 @@ acknowledgements: ""
           <td>3:30pm - 4:00pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 2</td>
+          <td>Invited Talk 2: Leo Guibas</td>
           <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 3</td>
+          <td>Invited Talk 3: Denver Dash</td>
           <td>4:30pm - 5:00pm</td>
         </tr>
         <tr>
@@ -222,9 +222,8 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://jsturm.de/wp/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/juergen.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://jsturm.de/wp/">Juergen Sturm</a></b> currently works on 3D reconstruction and scene understanding at Google. Before this, he headed the RGB-D and machine learning team at Metaio GmbH, the world-leading Augmented Reality technology provider. Before he joined Metaio, he was a postdoctoral researcher in the Computer Vision group of Prof. Daniel Cremers at the Technical University of Munich, where he developed several novel methods for real-time camera tracking and 3D person scanning. In 2011, he obtained his PhD from the Autonomous Intelligent Systems lab headed by Prof. Wolfram Burgard at the University of Freiburg. He won several awards for his scientific work including the best dissertation award of the European Coordinating Committee of Artificial Intelligence (ECCAI) in 2011 and the TUM TeachInf best lecture award 2012 and 2013 for his course “Visual Navigation for Flying Robots”.
+      <b><a href="https://occipital.com/">Denver Dash</a></b> is Director of Machine Learning at Occipital.
     </p>
   </div>
 </div><br>
@@ -237,12 +236,12 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-2">
-    <a href="https://graphics.stanford.edu/~adai/">
+    <a href="https://angeladai.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/angela.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://graphics.stanford.edu/~adai/">Angela Dai</a>
-      <h6>Technical University Munich</h6>
+      <a href="https://angeladai.github.io/">Angela Dai</a>
+      <h6>Technical University of Munich</h6>
     </div>
   </div>
 
@@ -272,7 +271,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://niessnerlab.org/members/matthias_niessner/profile.html">Matthias Niessner</a>
-      <h6>Technical University Munich</h6>
+      <h6>Technical University of Munich</h6>
     </div>
   </div>
 </div>
