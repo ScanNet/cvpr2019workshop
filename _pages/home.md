@@ -155,7 +155,7 @@ acknowledgements: ""
           <td>1:45pm - 2:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 1: Jitendra Malik</td>
+          <td>Invited Talk 1: Jitendra Malik, <i>Seeing while moving and moving while seeing in a 3D world</i></td>
           <td>2:00pm - 2:30pm</td>
         </tr>
         <tr>
